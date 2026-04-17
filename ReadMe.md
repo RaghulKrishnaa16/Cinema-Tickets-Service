@@ -55,7 +55,7 @@ The focus of this solution is on:
 
 - Infants sit on an Adult's lap → enforced by ensuring:
 - infantCount <= adultCount
-- - External services (`TicketPaymentService`, `SeatReservationService`) are assumed to always succeed
+- External services (`TicketPaymentService`, `SeatReservationService`) are assumed to always succeed
 - No persistence or API layer is required (as per exercise scope)
 
 ---
